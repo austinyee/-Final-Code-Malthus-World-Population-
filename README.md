@@ -4,6 +4,7 @@ First download both csv files labeled "africa-population 2.csv" & north-america-
 Steps to properly download both csv files: 
 1. Click "Raw" then right click the tab and it should open.
 2. Then add ".csv" to get it locally.
+
 After downloading both csv files, be sure to load them into your notebook along with the our final code repo document in the SAME file. 
 Then the code should run through. 
 Thank you
