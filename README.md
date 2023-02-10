@@ -11,4 +11,6 @@ Steps to properly download both csv files:
 
 After downloading both csv files, be sure to load them into your notebook along with the our final code repo document in the SAME file. 
 Then the code should run through. 
+If you run into any issues running code or dowloading the csv files, please contact austinyee@berkeley.edu
 Thank you
+
